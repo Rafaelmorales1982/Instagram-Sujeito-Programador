@@ -157,6 +157,25 @@ input[type="submit"] {
 
 
 /*INICIO FOOTER*/
+footer {
+  text-align: center;
+  height: 60px;
+margin-top: -70px;
+}
 
+footer a {
+  text-transform: uppercase;
+  color: #000000;
+  margin-right: 8px;
+  font-weight: bold;
+}
 
+.text-small {
+  font-size: 12px;
+  font-weight: bold;
+  color: grey;
+  text-transform: uppercase;
+  padding-left: 20px;
+  display: inline-block;
+}
 /*FIM FOOTER*/
