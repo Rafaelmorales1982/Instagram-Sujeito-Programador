@@ -134,4 +134,29 @@ input[type="submit"] {
 }
 /*FIM PARTE DO CADASTRE-SE*/
 
+
+/*INICIO PARTE LOGO APPS*/
+.get-app-panel {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.app-buttons{
+  margin-top: 16px;
+}
+
+.app-buttons img {
+  height: 40px;
+  padding: 0 2px;
+}
+/*FIM PARTE LOGO APPS*/
+
+
+
 /*FIM CONTAINER*/
+
+
+/*INICIO FOOTER*/
+
+
+/*FIM FOOTER*/
