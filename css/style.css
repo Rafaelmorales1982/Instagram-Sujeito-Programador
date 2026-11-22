@@ -179,3 +179,57 @@ footer a {
   display: inline-block;
 }
 /*FIM FOOTER*/
+
+/* ESTILIZANDO SIGNUP - CONTAINER-SIGNUP*/
+#container-signup {
+  /* background-color: #ccc; */
+  max-width: 400px;
+  min-height: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.message {
+  margin: 10px 70px;
+}
+
+.message span {
+  text-align: center;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #8e8e8e;
+}
+
+.cta-button {
+  width: 320px;
+  margin: 10px 0;
+  height: 35px;
+  background-color: #3c96ed;
+  border: 0;
+  border-radius: 4px;
+  font-size: 15px;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.divisor-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.line {
+  background-color: #e6e6e6;
+  width: 35%;
+  height: 1px;
+
+}
+
+.divisor-tag {
+  font-weight: bold;
+  margin: 0 2.5%;
+}
